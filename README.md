@@ -1,5 +1,7 @@
 # Japan-Style-Water-Objects :anchor:
 Introduce various water objects, inspired by the lovely scenery of Japan.  
+Draw by: Zyliety, GarryG, EmperorJake, Yozora  
+Code by:Zyliety  
 
 Preview:  
 
