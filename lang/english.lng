@@ -1,0 +1,140 @@
+##grflangid 0x01
+
+#Main grf title and description
+STR_GRF_NAME        :Japan Style Water Objects V3
+STR_GRF_DESCRIPTION :{YELLOW}JP Style Objects Parks ,2025/12/31. {}{YELLOW}Introduce various water objects, inspired by the lovely scenery of Japan.{}{WHITE}Draw by: Zyliety, GarryG, EmperorJake, Yozora. {}{WHITE}Code by:Zyliety.{}{WHITE}License:GPLv2 or higher
+
+#error messages
+STR_OPENTTD_VERSION :1.2.0 (r22723)
+
+#object classes
+STR_JPWO		:{YELLOW}JP Water Objects
+
+STR_ObjectMenu		:    Object Menu
+
+STR_HBTL		:    Harbor Tiles
+
+STR_CAVE		:    Cargo/Vehicle
+
+STR_WBUL		:    Warehouses and Buildings
+
+#object name and description
+STR_harbor_tiles_0		:harbor tiles (AutoLay)
+STR_harbor_tiles_1		:harbor tiles 1
+STR_harbor_tiles_2		:harbor tiles 2
+STR_harbor_tiles_3		:harbor tiles 3
+STR_harbor_tiles_4		:harbor tiles 4
+STR_harbor_tiles_5		:harbor tiles 5
+STR_harbor_tiles_6		:harbor tiles 6
+STR_harbor_tiles_7		:harbor tiles 7
+STR_harbor_tiles_8		:harbor tiles 8
+STR_harbor_tiles_9		:harbor tiles 9
+STR_harbor_tiles_10		:harbor tiles 10
+
+STR_harbor_tiles_11		:harbor tiles 11
+STR_harbor_tiles_11_purchase_view1		:harbor tiles 11
+STR_harbor_tiles_11_purchase_view2		:harbor tiles 11
+STR_harbor_tiles_11_purchase_view3		:harbor tiles 11
+STR_harbor_tiles_11_purchase_view4		:harbor tiles 11
+
+STR_harbor_tiles_12		:harbor tiles 12
+STR_harbor_tiles_12_purchase_view1		:harbor tiles 12
+STR_harbor_tiles_12_purchase_view2		:harbor tiles 12
+STR_harbor_tiles_12_purchase_view3		:harbor tiles 12
+STR_harbor_tiles_12_purchase_view4		:harbor tiles 12
+
+
+STR_cargo_vehicle_1		:cargo
+STR_cargo_vehicle_1_purchase_view1		:cargo
+STR_cargo_vehicle_1_purchase_view2		:cargo
+STR_cargo_vehicle_1_purchase_view3		:cargo
+STR_cargo_vehicle_1_purchase_view4		:cargo
+
+STR_cargo_vehicle_2		:cargo
+STR_cargo_vehicle_2_purchase_view1		:cargo
+STR_cargo_vehicle_2_purchase_view2		:cargo
+STR_cargo_vehicle_2_purchase_view3		:cargo
+STR_cargo_vehicle_2_purchase_view4		:cargo
+
+STR_cargo_vehicle_3		:vehicle
+STR_cargo_vehicle_3_purchase_view1		:vehicle
+STR_cargo_vehicle_3_purchase_view2		:vehicle
+STR_cargo_vehicle_3_purchase_view3		:vehicle
+STR_cargo_vehicle_3_purchase_view4		:vehicle
+
+STR_cargo_vehicle_4		:vehicle
+STR_cargo_vehicle_4_purchase_view1		:vehicle
+STR_cargo_vehicle_4_purchase_view2		:vehicle
+STR_cargo_vehicle_4_purchase_view3		:vehicle
+STR_cargo_vehicle_4_purchase_view4		:vehicle
+
+STR_cargo_vehicle_5		:vehicle(slop)
+STR_cargo_vehicle_5_purchase_view1		:vehicle(slop)
+STR_cargo_vehicle_5_purchase_view2		:vehicle(slop)
+STR_cargo_vehicle_5_purchase_view3		:vehicle(slop)
+STR_cargo_vehicle_5_purchase_view4		:vehicle(slop)
+
+STR_cargo_vehicle_6		:vehicle(slop)
+STR_cargo_vehicle_6_purchase_view1		:vehicle(slop)
+STR_cargo_vehicle_6_purchase_view2		:vehicle(slop)
+STR_cargo_vehicle_6_purchase_view3		:vehicle(slop)
+STR_cargo_vehicle_6_purchase_view4		:vehicle(slop)
+
+STR_cargo_vehicle_7		:cargo(slop)
+STR_cargo_vehicle_7_purchase_view1		:cargo(slop)
+STR_cargo_vehicle_7_purchase_view2		:cargo(slop)
+STR_cargo_vehicle_7_purchase_view3		:cargo(slop)
+STR_cargo_vehicle_7_purchase_view4		:cargo(slop)
+
+STR_warehouses_and_buildings_1		:port warehouse
+STR_warehouses_and_buildings_1_purchase_view1		:port warehouse
+STR_warehouses_and_buildings_1_purchase_view2		:port warehouse
+STR_warehouses_and_buildings_1_purchase_view3		:port warehouse
+STR_warehouses_and_buildings_1_purchase_view4		:port warehouse
+
+STR_warehouses_and_buildings_2		:warehouse
+STR_warehouses_and_buildings_2_purchase_view1		:warehouse
+STR_warehouses_and_buildings_2_purchase_view2		:warehouse
+STR_warehouses_and_buildings_2_purchase_view3		:warehouse
+STR_warehouses_and_buildings_2_purchase_view4		:warehouse
+
+STR_warehouses_and_buildings_3		:warehouse
+STR_warehouses_and_buildings_3_purchase_view1		:warehouse
+STR_warehouses_and_buildings_3_purchase_view2		:warehouse
+STR_warehouses_and_buildings_3_purchase_view3		:warehouse
+STR_warehouses_and_buildings_3_purchase_view4		:warehouse
+
+STR_warehouses_and_buildings_4		:warehouse(slop)
+STR_warehouses_and_buildings_4_purchase_view1		:warehouse(slop)
+STR_warehouses_and_buildings_4_purchase_view2		:warehouse(slop)
+STR_warehouses_and_buildings_4_purchase_view3		:warehouse(slop)
+STR_warehouses_and_buildings_4_purchase_view4		:warehouse(slop)
+
+STR_warehouses_and_buildings_5     :cargo/vehicle overlap
+STR_warehouses_and_buildings_5_purchase_view1        :cargo/vehicle overlap
+STR_warehouses_and_buildings_5_purchase_view2        :cargo/vehicle overlap
+STR_warehouses_and_buildings_5_purchase_view3        :cargo/vehicle overlap
+STR_warehouses_and_buildings_5_purchase_view4        :cargo/vehicle overlap
+
+STR_warehouses_and_buildings_6     :cargo/vehicle overlap
+STR_warehouses_and_buildings_6_purchase_view1        :cargo/vehicle overlap
+STR_warehouses_and_buildings_6_purchase_view2        :cargo/vehicle overlap
+STR_warehouses_and_buildings_6_purchase_view3        :cargo/vehicle overlap
+STR_warehouses_and_buildings_6_purchase_view4        :cargo/vehicle overlap
+
+STR_warehouses_and_buildings_7     :cargo/vehicle overlap
+STR_warehouses_and_buildings_7_purchase_view1        :cargo/vehicle overlap
+STR_warehouses_and_buildings_7_purchase_view2        :cargo/vehicle overlap
+STR_warehouses_and_buildings_7_purchase_view3        :cargo/vehicle overlap
+STR_warehouses_and_buildings_7_purchase_view4        :cargo/vehicle overlap
+
+
+
+
+
+
+
+
+
+
+
